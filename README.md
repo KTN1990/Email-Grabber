@@ -1,5 +1,5 @@
 # Emails Grabber
-Get emails list form a list of websites with a python multithreading script :)
+Get emails and leads from websites eazy with my python multithreading script :)
 
 # USAGE:
 > **python script.py list-of-sites.txt**
