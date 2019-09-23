@@ -19,15 +19,16 @@
       .sSs'           sSs             sSs           'sSs,
 
 # :gift: FEATURES:
-> **SMART**
+>[1]- SMART
 
-> **MULTITHREADING**
+>[2]- MULTITHREADING
 
-> **MULTI_PATH SCAN [+]- ADD PATHS ON: PATH.txt**
+>[3]- PATHS ON OPTIONS: EDIT PATHS.txt TO ADD MORE PATHS 
+
+>[4]- SMART
+
 
 # :pencil: USAGE:
 > **python3 script.py -h**
-
-> **exemple: python3 script.py -l list_sites.txt -t 100**
 
 ![alt text](https://i.imgur.com/x8f1OVX.jpg)
