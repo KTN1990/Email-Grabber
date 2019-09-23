@@ -30,5 +30,6 @@
 
 # :pencil: USAGE:
 > **python3 script.py -h**
+> **DEMO: https://asciinema.org/a/BcmfsXefam9JhPOYwDgpToDvH**
 
-![alt text](https://i.imgur.com/x8f1OVX.jpg)
+![alt text](https://i.imgur.com/8sakXu6.png)
